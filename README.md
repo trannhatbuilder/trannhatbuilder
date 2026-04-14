@@ -40,3 +40,20 @@ These works reflect my learning progress and foundational skills in software dev
 🔗 https://github.com/trannhatbuilder/cisco-certifications
 
 ---
+
+
+# 🛠 Cybersecurity Skills
+
+### 🔎 Security & Pentesting Tools
+- Nessus – vulnerability scanning and assessment  
+- OWASP ZAP – web application security testing  
+- Metasploit Framework – exploitation and penetration testing  
+- Burp Suite – web vulnerability analysis and interception  
+- Caido – modern web security testing toolkit  
+- Nmap – network scanning and service enumeration  
+
+### 🖥 Operating Systems & Environments
+- Ubuntu Server (setup, configuration)  
+- Linux CLI (basic) – file system, permissions, processes, networking
+
+---
