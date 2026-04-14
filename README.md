@@ -24,16 +24,11 @@ These works reflect my learning progress and foundational skills in software dev
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=trannhatbuilder&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=trannhatbuilder&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=trannhatbuilder&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=trannhatbuilder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=trannhatbuilder&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=trannhatbuilder&theme=dark&hide_border=false&layout=compact)
-
----
-
-## ✍️ Random Developer Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
