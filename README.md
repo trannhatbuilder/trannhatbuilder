@@ -44,8 +44,4 @@ These works reflect my learning progress and foundational skills in software dev
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-
-
-
-
-
+---
