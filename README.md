@@ -29,6 +29,18 @@ These works reflect my learning progress and foundational skills in software dev
 ![](https://streak-stats.demolab.com/?user=trannhatbuilder&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=trannhatbuilder&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+## 🎓 Certifications
+
+- **CyberOps Associate** – Cisco Networking Academy (2025)
+- **Ethical Hacker** – Cisco Networking Academy (2024)
+- **NDG Linux Essentials** – Cisco Networking Academy (2024)
+
+🔗 https://github.com/trannhatbuilder/cisco-certifications
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
