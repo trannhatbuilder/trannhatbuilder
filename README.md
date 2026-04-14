@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-Hello! My name is **Tran Nhat Nhon**.  
+Hello! My name is **Tran Nhat Nhon**. 
 I am currently a **student at Vietnam–Korea University of Information and Communication Technology (VKU)**.
 
 This GitHub profile showcases **basic projects, labs, and assignments** that I have completed during my studies at VKU.  
