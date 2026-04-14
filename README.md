@@ -40,8 +40,3 @@ These works reflect my learning progress and foundational skills in software dev
 🔗 https://github.com/trannhatbuilder/cisco-certifications
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
