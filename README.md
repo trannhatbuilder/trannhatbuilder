@@ -57,3 +57,13 @@ These works reflect my learning progress and foundational skills in software dev
 - Linux CLI (basic) – file system, permissions, processes, networking
 
 ---
+
+## 📝 Note
+
+The skills, tools, and projects presented in this GitHub profile reflect my **basic and foundational level of knowledge** in cybersecurity and related technologies.
+
+- Most tools and techniques are used at an **introductory level**, focusing on understanding core concepts and basic hands-on practice rather than advanced or specialized usage.
+- Some projects may **lack detailed README files, documentation, or result screenshots**, as they were completed during my early learning stages.
+- A number of projects represent my **first attempts** at implementing cybersecurity labs and assignments, and therefore may not yet meet professional or production-level standards.
+  
+I am continuously improving my skills and plan to refine, document, and expand these projects over time.
