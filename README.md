@@ -64,6 +64,5 @@ The skills, tools, and projects presented in this GitHub profile reflect my **ba
 
 - Most tools and techniques are used at an **introductory level**, focusing on understanding core concepts and basic hands-on practice rather than advanced or specialized usage.
 - Some projects may **lack detailed README files, documentation, or result screenshots**, as they were completed during my early learning stages.
-- A number of projects represent my **first attempts** at implementing cybersecurity labs and assignments, and therefore may not yet meet professional or production-level standards.
   
 I am continuously improving my skills and plan to refine, document, and expand these projects over time.
